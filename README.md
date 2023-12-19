@@ -1,5 +1,7 @@
 # Budget Tracker
 
+[Demo Video 🎥](https://youtu.be/giJ4I8Y_g8c)
+
 Introducing "Expense Tracker", a powerful budget tracking application built using Dart and the Flutter framework. This user-friendly app empowers you to take control of your finances and manage your expenses effortlessly.
 
 ## Technology:
@@ -14,8 +16,7 @@ Introducing "Expense Tracker", a powerful budget tracking application built usin
 - Expense List: View your expenses in a convenient list format. Easily scroll through your transactions to see the date, category, and expense amount at a glance.
 - Pie Chart Visualization: Gain insights into your spending patterns with a visually appealing pie chart. The chart represents your expenses in each category, making it simple to see how your money is distributed.
 
-## Videos/Images: 
-### [Demo Video 🎥](https://youtu.be/giJ4I8Y_g8c)
+## Images: 
  
 ![Screenshot 2023-10-10 at 3 51 15 PM](https://github.com/ashdeep-singh02/Expense_Tracker/assets/71999538/04f98318-ab4c-4e7d-98f9-025933e7cb33)
 
