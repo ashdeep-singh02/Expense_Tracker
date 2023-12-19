@@ -15,7 +15,7 @@ Introducing "Expense Tracker", a powerful budget tracking application built usin
 - Pie Chart Visualization: Gain insights into your spending patterns with a visually appealing pie chart. The chart represents your expenses in each category, making it simple to see how your money is distributed.
 
 ## Videos/Images: 
-### [Demo Video](https://youtu.be/giJ4I8Y_g8c)
+### [Demo Video 🎥](https://youtu.be/giJ4I8Y_g8c)
  
 ![Screenshot 2023-10-10 at 3 51 15 PM](https://github.com/ashdeep-singh02/Expense_Tracker/assets/71999538/04f98318-ab4c-4e7d-98f9-025933e7cb33)
 
