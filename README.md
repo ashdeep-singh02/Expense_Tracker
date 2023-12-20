@@ -26,7 +26,7 @@ Introducing "Expense Tracker", a powerful budget tracking application built usin
 
 
 #### In Collaboration with: 
-Ashok Surujdeo, Bekzod Musayev, Mike Zhang, Yingjie Mei 
+Ashdeep Singh, Ashok Surujdeo, Bekzod Musayev, Mike Zhang, Yingjie Mei 
 
 09/28/23 - 10/10/23
 
